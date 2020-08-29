@@ -1,0 +1,60 @@
+int  0,1,7, -9
+
+float 1.2, 0.1, -4.90  low precision
+
+char 'q' , 'a'
+
+double 1.218..... high precision
+
+boolean true / false
+--------------------------
+
+Syntax for declaring variables in C++
+
+Data_type Variable_name = Value;
+
+--------------------------------
+
+Based on scope, variable can be classified into two types
+
+Local variable: declared inside the braces of any function and can be accessed only from there.
+
+Global variable: declared outside any function and can be accessed from anywhere.
+----------------------------------------------------------------------------------
+there are three groups of data types in C++
+
+Built-in
+User-defined
+Derived
+---------------------------------
+
+variable names in c++ can range from 1 to 255 characters
+
+all variable names must begin with a letter of the alphabet or an underscore _
+
+after the first initial letter, variable names can also contain letters and numbers
+
+variables names are case sensitive
+
+no spaces or special characters are allowed
+
+you cannot use a c++ keyword (a reserved word)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

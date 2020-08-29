@@ -1,0 +1,9 @@
+variables are the containers to store data.
+
+int 1,2,-1,7
+
+float 0.110
+
+char 'a' , 'z' , 'q'
+
+for commenting in c++ we use  //  or   */ */
