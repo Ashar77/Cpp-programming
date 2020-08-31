@@ -27,7 +27,7 @@ int main(){
     cout<< glo;
 
     bool is_true = true;
-   cout<<is_true;
+  // cout<<is_true;
 
 
     return 0;
